@@ -49,4 +49,7 @@ body{
     transform: translateY(14px);
 }
 
-
+.open{
+    transform: rotate(90deg);
+    transform: translateY(0px);
+}
